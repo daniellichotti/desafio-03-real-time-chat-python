@@ -11,3 +11,6 @@ Nesse desafio, vamos iniciar um projeto com Flask e Flask-SocketIO que funcionar
 
 Criar a rota para renderizar o arquivo `index.html` e a função do `socketio` que será responsável
 por verificar as mensagens enviadas no "chat" que criaremos.
+
+para rodar, criar um venv e ativa-lo
+e instalar os requirements.txt
